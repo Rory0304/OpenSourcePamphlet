@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [오픈소스 소개](c624-d508-c18c-c2a4-c18c-ac1c.md)
+  * [오픈소스](c624-d508-c18c-c2a4-c18c-ac1c/c624-d508-c18c-c2a4.md)
+  * [자유소프트웨어](c624-d508-c18c-c2a4-c18c-ac1c/c790-c720-c18c-d504-d2b8-c6e8-c5b4.md)
   * [오픈소스 라이선스](c624-d508-c18c-c2a4-c18c-ac1c/c624-d508-c18c-c2a4-b77c-c774-c120-c2a4.md)
   * [오픈소스 프로젝트](c624-d508-c18c-c2a4-c18c-ac1c/c624-d508-c18c-c2a4-d504-b85c-c81d-d2b8.md)
     * [구성원](c624-d508-c18c-c2a4-c18c-ac1c/c624-d508-c18c-c2a4-d504-b85c-c81d-d2b8/ad6c-c131-c6d0.md)
