@@ -10,27 +10,9 @@
 
 \[각주 5\] OSI에서 정의한 많이 쓰이는 라이선스의 종류는 다음과 같다.
 
-[Apache License 2.0](https://opensource.org/licenses/Apache-2.0)
-
-[BSD 3-Clause "New" or "Revised" license](https://opensource.org/licenses/BSD-3-Clause),[BSD 2-Clause "Simplified" or "FreeBSD" license](https://opensource.org/licenses/BSD-2-Clause)
-
-[GNU General Public License \(GPL\)](https://opensource.org/licenses/gpl-license)
-
-[GNU Library or "Lesser" General Public License \(LGPL\)](https://opensource.org/licenses/lgpl-license)
-
-[MIT license](https://opensource.org/licenses/MIT)
-
-[Mozilla Public License 2.0](https://opensource.org/licenses/MPL-2.0)
-
-[Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
-
-[Eclipse Public License](https://opensource.org/licenses/EPL-1.0)
-
 \[각주5\] 퍼블릭 도메인은 저작권\(카피 라이트\)이 소멸되었거나 저작자가 저작권을 포기한 저작물을 의미한다.
 
 \[각주6\] Debian이라는 이름은 이안\(Ian\)머독과 그의 부인인 데브라\(Debra\)의 이름을 합쳐 만든 이름이다.
 
 \[각주 7\] 이안 머독은 2015년 12월 26일 밤과 다음날 새벽에 폭력 행위로 경찰에 연행된 후, 보석금을 지불하고 석방되었다. 그리고 28일, 자살을 예고하는 글을 남긴 후 숨진 채 발견되었다.
-
-
 
