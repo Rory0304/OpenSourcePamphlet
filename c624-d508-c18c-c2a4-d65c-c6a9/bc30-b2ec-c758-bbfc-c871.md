@@ -1,8 +1,10 @@
 **3\)배달의 민족 글꼴**
 
-오픈소스는 SW뿐만 아니라 다양한 분야에서도 활용된다. 대표적으로 오픈소스 글꼴이 있다. ‘배달의 민족’이라는 배달 서비스 앱을 개발한 우아한 형제들은 ‘한나는 11살체’를 비롯한 네 개의 오픈소스 글꼴을 배포하고 있다. 이 글꼴들은 OFL 라이선스 \(Open Font License\)하에서 개인 혹은 단체 누구든 어떤 목적으로 사용할 수 있다.
+오픈소스는 SW뿐만 아니라 다양한 분야에서도 활용된다. 대표적으로 오픈소스 글꼴이 있다. ‘배달의 민족’이라는 배달 서비스 앱을 개발한 우아한 형제들은 ‘한나는 11살체’를 비롯한 네 개의 오픈소스 글꼴을 배포하고 있다. 
 
-![](file:///C:/Users/woo10/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png "EMB00006b186d9c")
+![](/assets/배달의 민족.PNG)이 글꼴들은 OFL 라이선스 \(Open Font License\)하에서 개인 혹은 단체 누구든 어떤 목적으로 사용할 수 있다.
 
-![](file:///C:/Users/woo10/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png "EMB00006b186d9d")
+
+
+![](/assets/OpenFont.PNG)
 

@@ -1,2 +1,4 @@
 # OpenSourcePhamphlet
-Git book으로 만드는 오픈소스 소책자
+
+Open Source 소책자 입니다.
+
