@@ -6,10 +6,7 @@
 
 Material design은 지난 2014년에 발표한 구글의 첫 디자인 시스템이다. 종이와 잉크에서 영감을 받아 그것을 구성하는 카드, 그림자, 포인트 컬러 등을 스크린 안에 구현하였으며, 수준 미달 디자인으로 평가되던 구글 제품들과 안드로이드 애플리케이션의 디자인 수준을 높였다.
 
-```
-                    ![](/assets/ddddddddd.PNG)     ![](/assets/ddddddd.PNG)  
-                                                                      \(구글의 새로운 Material design\)
-```
+![](/assets/Google-Material-Design_805.png)
 
 그리고, 올해 구글은 새로운 Material design과 Material design UI를 안드로이드와 크롬 OS, 웹에 적용시켰다. Material design UI는 사용자들이 Material design을 쉽게 이용할 수 있도록 하는 프로그램으로 현재 Github에서 오픈소스 프로젝트를 활발히 진행하고 있다.
 
