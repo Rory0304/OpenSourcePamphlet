@@ -21,4 +21,6 @@
   * [리차드 스톨만](c624-d508-c18c-c2a4-c758-c5bc-ad74-b4e4/b9ac-cc28-b4dc-c2a4-d1a8-b9cc.md)
   * [에릭 레이먼드](c624-d508-c18c-c2a4-c758-c5bc-ad74-b4e4/c5d0-b9ad-b808-c774-ba3c-b4dc.md)
   * [이안 머독](c624-d508-c18c-c2a4-c758-c5bc-ad74-b4e4/c774-c548-ba38-b3c5.md)
+* [각주](ac01-c8fc.md)
+* [참고 문헌 및 외부 링크](cc38-ace0-bb38-d5cc.md)
 

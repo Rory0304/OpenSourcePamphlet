@@ -8,6 +8,8 @@ Material design은 지난 2014년에 발표한 구글의 첫 디자인 시스템
 
 ![](/assets/Google-Material-Design_805.png)
 
+\(구글이 선보인 Meterial Design이다. 출처: CODECONDO\)
+
 그리고, 올해 구글은 새로운 Material design과 Material design UI를 안드로이드와 크롬 OS, 웹에 적용시켰다. Material design UI는 사용자들이 Material design을 쉽게 이용할 수 있도록 하는 프로그램으로 현재 Github에서 오픈소스 프로젝트를 활발히 진행하고 있다.
 
 ![](/assets/material.PNG)
